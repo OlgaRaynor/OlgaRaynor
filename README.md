@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olga Raynor
-- 👀 I’m interested in Data Analysis and Visualisations
-- 🌱 I’m currently improving my skill in Sql, R and Tableau
+- 👀 I’m interested in Data Analysis and Visualizations
+- 🌱 I’m currently improving my skill in SQL, R and Tableau
 - 📫 How to reach me [...](https://www.linkedin.com/in/olgaraynor )
 
 
